@@ -31,7 +31,6 @@ Desarrollar una aplicación funcional aplicando los principios de la metodologí
 5. Introduce dos números y selecciona la operación deseada.
 
 ### Autor
-Estudiante de la asignatura de desarrollo de software.
-
+Andrea Natalia P
 ### Proyecto académico
 Desarrollado como parte de la Actividad 4 sobre simulación de proyectos ágiles.
