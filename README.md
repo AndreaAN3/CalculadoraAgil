@@ -1,5 +1,4 @@
 # CalculadoraAgil
-# CalculadoraAgil
 
 ## Actividad 4. Simulación de un Proyecto Ágil
 
